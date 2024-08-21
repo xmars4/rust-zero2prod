@@ -1,5 +1,6 @@
 # About
-
+- Author Source code: https://github.com/LukeMathWalker/zero-to-production
+- [Zero To Production In Rust](https://www.zero2prod.com/index.html)
 ## Rust Toolchain
 
 - IDE
